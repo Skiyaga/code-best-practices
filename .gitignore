@@ -1,0 +1,11 @@
+/node_modules
+.DS_Store
+npm-debug.log
+modules/
+vendor/
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.png
+.tf_modules.lock
+.tf_apply.lock
